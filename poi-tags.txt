@@ -1,0 +1,75 @@
+# ------------------
+# Places
+# ------------------
+n/place=city
+n/place=town
+n/place=village
+n/place=hamlet
+n/place=suburb
+
+# ------------------
+# Historic & tourism
+# ------------------
+n/historic
+n/tourism=attraction
+n/tourism=museum
+n/tourism=viewpoint
+
+# ------------------
+# Religion & culture
+# ------------------
+n/amenity=place_of_worship
+n/amenity=library
+n/amenity=theatre
+n/amenity=cinema
+
+# ------------------
+# Food & drink
+# ------------------
+n/amenity=cafe
+n/amenity=pub
+n/amenity=restaurant
+n/amenity=fast_food
+n/amenity=bar
+
+# ------------------
+# Shops
+# ------------------
+n/shop
+n/amenity=marketplace
+
+# ------------------
+# Leisure & outdoors
+# ------------------
+n/leisure=park
+n/leisure=garden
+n/leisure=marina
+n/leisure=nature_reserve
+
+# ------------------
+# Natural features
+# ------------------
+n/natural=peak
+n/natural=cliff
+n/natural=saddle
+
+# ------------------
+# Survey / landmarks
+# ------------------
+n/man_made=survey_point
+n/man_made=lighthouse
+n/man_made=windmill
+
+# ------------------
+# Geographic features
+# ------------------
+
+# Mountain peaks (already nodes, good)
+n/natural=peak
+
+# Islands (ways / relations)
+w/place=island
+
+# Optional later
+w/natural=mountain_range
+
