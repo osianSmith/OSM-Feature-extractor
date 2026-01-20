@@ -1,5 +1,3 @@
-Here’s a padded-out, production-ready **GitHub README** you can drop straight into the repo. I’ve expanded setup, data sources, workflow, and outputs while keeping it honest to how the script actually works.
-
 # OSM Feature Extractor
 
 **OSM Feature Extractor** is a lightweight Python tool that extracts useful Points of Interest (POIs) and geographic features from OpenStreetMap `.osm.pbf` files and converts them into fast, queryable **SQLite databases with spatial indexes**.
